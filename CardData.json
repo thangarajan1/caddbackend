@@ -1,0 +1,123 @@
+[
+  {
+    "img": "https://i.pinimg.com/564x/22/47/b3/2247b35d71ae926f1cadd5a78e078c79.jpg",
+    "coursename": "Civil",
+    "classtime": "Direct Classes | Online Classes | Indivial Classes | Fast Moving classes",
+    "course": [
+      "AutoCAD",
+      "Microstation",
+      "Revit Architecture",
+      "3ds Max",
+      "maya",
+      "Sketchup",
+      "Vray",
+      "Lumion",
+      "StaadPro",
+      "Etabs",
+      "RCC Datailing",
+      "Tekla",
+      "Qto",
+      "Navisworks",
+      "MX Road",
+      "AutoCAD Civil 3D"
+    ]
+  },
+  {
+    "img": "https://i.pinimg.com/564x/5e/06/d0/5e06d0dad87119043296968b650392a6.jpg",
+    "coursename": "Mechanical",
+    "classtime": "Direct Classes | Online Classes | Indivial Classes | Fast Moving classes",
+    "course": [
+      "GD&T",
+      "AutoCAD",
+      "Plant 3D",
+      "Solidworks",
+      "Solidworks Motions",
+      "Creo",
+      "Catia",
+      "Catia kinematics",
+      "Inventor",
+      "Fusion 360",
+      "NXCAD",
+      "NX CAM",
+      "NX Nastran",
+      "master CAM",
+      "HVAC",
+      "PDMS",
+      "3D Printing",
+      "Ansys Workbench",
+      "Ansys Fluent",
+      "Hypermesh",
+      "Plant Simulation"
+    ]
+  },
+  {
+    "img": "https://i.pinimg.com/564x/26/d2/37/26d2372af1a3f37db725deb08088aa37.jpg",
+    "coursename": "Electrical",
+    "classtime": "Direct Classes | Online Classes | Indivial Classes | Fast Moving classes",
+    "course": [
+      "AutoCAD",
+      "Revit MEP",
+      "PLC Scada",
+      "Embedded",
+      "Matlab",
+      "PCB Design"
+    ]
+  },
+  {
+    "img": "https://i.pinimg.com/736x/7c/8a/5c/7c8a5cc61e919dc25eb1a794460b735d.jpg",
+    "coursename": "Electronic",
+    "classtime": "Direct Classes | Online Classes | Indivial Classes | Fast Moving classes",
+    "course": ["Microcontroller", "Orcad", "IOT", "Robotics"]
+  },
+  {
+    "img": "https://i.pinimg.com/564x/a0/72/92/a0729232de71cbe5a5b4e5695079af1d.jpg",
+    "coursename": "IT Courses",
+    "classtime": "Direct Classes | Online Classes | Indivial Classes | Fast Moving classes",
+    "course": [
+      "C & C++",
+      "Java",
+      "Advanced Java",
+      "Python",
+      "Data Science",
+      "Cloud Computing",
+      "MySQL",
+      "PHP",
+      "ASP.Net with C#",
+      "Selenium",
+      "web designing",
+      "Angular",
+      "React",
+      "Full Stack MERN",
+      "Networking",
+      "Full Stack MEAN",
+      "Ethical Hacking",
+      "Network Security",
+      "Cyber security",
+      "Block Chain"
+    ]
+  },
+  {
+    "img": "https://i.pinimg.com/564x/88/8c/5e/888c5ec63ab4692a7ca936c26e48048d.jpg",
+    "coursename": "Business Development",
+    "classtime": "Direct Classes | Online Classes | Indivial Classes | Fast Moving classes",
+    "course": ["MS Office", "Tally Prime", "Advance Excel", "Digital Marketing"]
+  },
+  {
+    "img": "https://i.pinimg.com/736x/62/01/6e/62016ea3e3f1f1f69f7183d1e16a1acc.jpg",
+    "coursename": "Management",
+    "classtime": "Direct Classes | Online Classes | Indivial Classes | Fast Moving classes",
+    "course": ["SAP", "Primavera", "MS Project"]
+  },
+  {
+    "img": "https://i.pinimg.com/564x/83/92/79/839279c2a4808546a8ae4e09f3826b4d.jpg",
+    "coursename": "Designing",
+    "classtime": "Direct Classes | Online Classes | Indivial Classes | Fast Moving classes",
+    "course": ["Photoshop", "illustrator", "Corel Draw", "After effect"]
+  },
+  {
+    "img": "https://i.pinimg.com/564x/a7/74/5e/a7745e535b9c544b1cd6116b76cd8767.jpg",
+    "coursename": "Spoken English",
+    "classtime": "Direct Classes | Online Classes | Indivial Classes | Fast Moving classes",
+    "course": ["Spoken English"]
+  }
+]
